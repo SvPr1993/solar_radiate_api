@@ -7,5 +7,5 @@ from app_solar_api.service import random_num
 class Number(APIView):
     def get(self, request):
         int_num = random_num()
-        json_anwser = {"number": int_num}
+        json_anwser = {"w_number": int_num}
         return Response(json_anwser)
