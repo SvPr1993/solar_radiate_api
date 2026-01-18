@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06dde2fb-4d1e-45b0-944a-d2f09e93317d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_solar_api/repo.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_solar_api/repo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_solar_api/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_solar_api/service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_solar_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_solar_api/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="06dde2fb-4d1e-45b0-944a-d2f09e93317d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/пользователь/Desktop/Python/DJANGO/solar_radiate_api",
+    "last_opened_file_path": "C:/Users/пользователь/Desktop/Python/DJANGO/solar_radiate",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,7 +80,7 @@
       <workItem from="1768573560730" duration="30000" />
       <workItem from="1768573733340" duration="24000" />
       <workItem from="1768574900105" duration="47000" />
-      <workItem from="1768577465174" duration="741000" />
+      <workItem from="1768577465174" duration="1059000" />
     </task>
     <servers />
   </component>
